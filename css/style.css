@@ -1,0 +1,56 @@
+body, html, p{
+	padding: 0;
+	margin: 0;
+}
+body{
+	font-size: 12px;
+	background-color: #efeff4;
+}
+.container{
+	padding: 1.4rem 1rem;
+
+}
+.container .piont{
+	width: 0.5rem;
+	height: 0.5rem;
+	margin-right: 0.7rem;
+	background-color: #018dff;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	display: inline-block;
+	vertical-align: middle;
+	margin-bottom: 5px;
+}
+.container .con-title{
+	color: #2c2c2c;
+	font-size: 1.2rem;
+	line-height: 1.2rem;
+	font-family: "SimHei";
+	vertical-align: middle;
+	padding-bottom: 1rem;
+	border-bottom: 1px solid #d2d2d6;
+}
+.container .con-info{
+	line-height: 3.6rem;
+	color: #606060;
+	font-family: "SimHei";
+	font-size: 1rem;
+}
+.container .color{
+	color: #018fff;
+}
+.container .con-img{
+	width: 100%;
+}
+.container .con-news{
+	color: #606060;
+	font-family: "SimHei";
+	font-size: 1.1rem;
+	line-height: 1.6rem;
+	margin: 0.75rem 0 2.36rem;
+}
+.mt2{
+	margin-top: 2.15rem;
+}
